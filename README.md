@@ -18,8 +18,10 @@ Fun fact: I hate emojis. Just kidding: here's my first column right now on Disco
 
 
 ### Connect
-LinkedIn: [linkedin.com/hanyangfliu](https://linkedin.com/hanyangfliu)
+LinkedIn: [linkedin.com/in/hanyangfliu](https://linkedin.com/in/hanyangfliu)
+
 Email: hanyangfliu@gmail.com OR hfl2114@columbia.edu
+
 Discord: frankanator.
 
 
