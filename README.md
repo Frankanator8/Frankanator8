@@ -1,16 +1,19 @@
 ## Heya!
 
-My name's Hanyang, but you can call me Frank! I'm a student at Columbia University Fu Foundation SEAS looking to study Computer Science. I'm passionate about **Game Development** and **SWE**, but am open to anything in particular!
+My name's Hanyang, but you can call me Frank! I'm a student at Columbia Engineering looking to study Computer Science. I'm passionate about **Game Development** and **SWE**, but am open to anything in particular!
 
 ### What I'm Doing
 * Exploring AWS and other common frameworks in SWE
 * Making my own game in Unity - stay tuned for updates!
+* Building smaller games and posting them on my youtube: check it out here: [https://www.youtube.com/@frankanator8](https://www.youtube.com/@frankanator8)
 * Looking to do research in something CS related!
 
-Fun fact: I hate emojis. Just kidding: here's my first column right now on Discord: 💀🤓🤑‼️💻
+Fun fact: I play the clarinet! I'd love to connect with you about any instrument though - but especially if you've done band.
 
 ### What I've Done
-* Game Development internship with Legato. Loved my time there, Unity is super cool
+* Game Development internship with Legato. Loved my time there, learned a lot about Unity
+* Current backend internship with FurnishUp
+* Top 5 Finalist at Columbia Engineering x Amazon Bedrock Engineering Challenge
 * AI Research w/PSU Professor
 * Honorable Mention at M3 Math Modeling Challenge
 * Hexicast (a video game!)
@@ -20,7 +23,7 @@ Fun fact: I hate emojis. Just kidding: here's my first column right now on Disco
 ### Connect
 LinkedIn: [linkedin.com/in/hanyangfliu](https://linkedin.com/in/hanyangfliu)
 
-Email: hanyangfliu@gmail.com OR hfl2114@columbia.edu
+Email: hanyang.f.liu@[columbia.edu or gmail.com, take your pick](mailto:hanyang.f.liu@columbia.edu)
 
 Discord: frankanator.
 
