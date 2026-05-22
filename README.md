@@ -1,24 +1,24 @@
 ## Heya!
 
-My name's Hanyang, but you can call me Frank! I'm a student at Columbia Engineering looking to study Computer Science. I'm passionate about **Game Development** and **SWE**, but am open to anything in particular!
+My name's Hanyang, but you can call me Frank. I'm a student at Columbia Engineering studying Computer Science. I'm passionate about **Software Engineering** and **Game Development**!
 
 ### What I'm Doing
-* Exploring AWS and other common frameworks in SWE
-* Making my own game in Unity - stay tuned for updates!
+* Exploring SWE and learning how to do this stuff with AI
 * Building smaller games and posting them on my youtube: check it out here: [https://www.youtube.com/@frankanator8](https://www.youtube.com/@frankanator8)
-* Looking to do research in something CS related!
+* Building side quest projects
+* Research Fellow as part of the [CEAL](https://ceal.cs.columbia.edu/) Lab
+* ADI Committee Member/Game Dev Co-chair @ Columbia University
 
-Fun fact: I play the clarinet! I'd love to connect with you about any instrument though - but especially if you've done band.
+Fun fact: I play the clarinet! I love to talk about band and orchestra.
 
 ### What I've Done
-* Game Development internship with Legato. Loved my time there, learned a lot about Unity
-* Current backend internship with FurnishUp
+* 2nd Place at Morgan Stanley CodeToGive Hackathon
 * Top 5 Finalist at Columbia Engineering x Amazon Bedrock Engineering Challenge
+* Game Development internship with Legato. Loved my time there, learned a lot about Unity
+* Algorithmic backend internship with FurnishUp
 * AI Research w/PSU Professor
 * Honorable Mention at M3 Math Modeling Challenge
 * Hexicast (a video game!)
-* ADI/Game Dev Committee @ Columbia University
-
 
 ### Connect
 LinkedIn: [linkedin.com/in/hanyangfliu](https://linkedin.com/in/hanyangfliu)
